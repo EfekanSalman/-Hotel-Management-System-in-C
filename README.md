@@ -21,8 +21,10 @@ To compile the program, use `gcc`:
 
 ```bash
 gcc hotel_management.c -o hotel_management
-
-To run the program: ./hotel_management
+```
+To run the program: 
+```bash
+./hotel_management
 ```
 How to Use
 Add Guest: Input guest details including check-in and check-out dates. The system calculates the total bill based on room price and the number of nights.
